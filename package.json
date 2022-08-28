@@ -1,0 +1,14 @@
+{
+  "name": "cruise-ships",
+  "version": "1.0.0",
+  "description": "On the water",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Claudiu Petre",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.1"
+  }
+}

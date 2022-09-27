@@ -1,14 +1,25 @@
 {
   "name": "cruise-ships",
   "version": "1.0.0",
-  "description": "On the water",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "author": "Claudiu Petre",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claudiu-Petre/Cruise-ships.git"
+  },
+  "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claudiu-Petre/Cruise-ships/issues"
+  },
+  "homepage": "https://github.com/Claudiu-Petre/Cruise-ships#readme",
   "devDependencies": {
     "jest": "^29.0.1"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }
